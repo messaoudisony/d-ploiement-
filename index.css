@@ -1,0 +1,27 @@
+
+h1{
+    color: blueviolet;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid red;
+    border-radius: 30px;
+    width: 40vw;
+    height: 10vh;
+    padding: 1%;
+}
+
+h2{
+   color: brown;
+   justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    padding: 1%;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   border: 3px solid blueviolet;
+   width: 40vw;
+    height: 10vh;
+    border: 2px solid rgb(189, 50, 204);
+    border-radius: 30px;
+}
